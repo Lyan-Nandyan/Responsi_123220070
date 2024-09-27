@@ -17,7 +17,7 @@ import view.*;
 public class DataPegawaiController {
     LoginPage frame;
     DataPegawaiImplement impldatapegawai;
-    List<DataPegawai> ds;
+    List<DataPegawai> dp;
     List<DataPegawai> kosong;
 
 
